@@ -1,0 +1,24 @@
+[Image: GD Express Enhances IT Performance and Scalability with Nutanix]
+
+
+Nutanix, a leader in in private cloud, hybrid, and multicloud computing, announced last week that Malaysian logistics and express carrier provider GD Express (GDEX) has adopted Nutanix Hybrid Cloud to keep pace with the fast changing demands in E-commerce. Since implementation, the technology upgrade has helped GDEX achieve a threefold increase in business transactions.
+E-commerce is set to play a catalyst role in Malaysia’s post-pandemic recovery. The Malaysia Digital Economy Corporation (MDEC) expects a 20 percent growth in E-commerce contribution to the digital economy in 2020, reaching as high as US$41.8 billion (RM170 billion). This presents a business opportunity for GDEX’ business-to-consumer (B2C) operations, which have tripled in transactions in the last three years, and represent 35 percent of the overall business.     
+
+To continue on this growth path, GDEX needed to ensure compliance with service level agreements (SLAs). Prior to adopting the Nutanix solution, GDEX was already managing up to 180,000 consignments a day, and each of these passed through multiple shipment tracking points before reaching its destination. The tracking points generate data that offers visibility on the shipment status, creating a myriad of records that needed to be processed and stored efficiently.
+
+GDEX’ legacy IT infrastructure could not support its vision to scale, leading it to search for a flexible modern infrastructure that could support seamless end-to-end operations.
+
+[Image: GD Express Enhances IT Performance and Scalability with Nutanix]
+
+Teong Teck Lean (pic), Managing Director and Group Chief Executive Officer, GDEX said: “The logistics industry is fast changing, and the pandemic has made the business landscape even more challenging to navigate. As a customer-focused and technology-driven company, we partnered with Nutanix to ensure that we are always ready to adapt to changes in customer and market demands.”
+The company has since put in place three Nutanix Clusters and migrated all its core applications for governing shipments to the Nutanix Enterprise Cloud platform. The IT team now manages server, storage and networking resources through a single pane of glass.
+
+Charles Ong, Special Project Advisor, GDEX, commented: “After comparing our legacy infrastructure with Nutanix’ hyperconverged private cloud where software managed everything, it was clear that the latter would give us the rapid scalability we needed to support fluctuating volumes at a lower cost.”
+
+GDEX’ operations now run smoothly regardless of the volume of shipments. Staff now have all the information they need, whenever they need, to make sure deliveries are on schedule. Nutanix’ platform enables GDEX to scale in minutes to accommodate large order spikes for key E-commerce events such as 11.11 and the upcoming 12.12, resulting in an approximately 100% increase in GDEX’ overall business revenues.
+
+“E-commerce is both a great business opportunity and a great IT challenge for logistics companies such as ours. Nutanix’ platform is incredibly elastic, enabling us to scale quickly and efficiently, without compromising our service and costs,” said Ong. “We would not have achieved this success if we continued with our legacy infrastructure. The cost of scaling and management would have eaten into our margins, but with Nutanix, we are able to sustain and scale our operations to consistently meet customer and market demands.” 
+
+“As Malaysia’s digital economy continues to advance, a new generation of digital consumers have emerged and driven the growth of e-commerce,” said Avinash Gowda, Country Manager, Malaysia, Nutanix. “Nutanix has been supporting businesses like GDEX in accelerating their digital transformation, enabling them to scale and meet evolving consumer demands. We are pleased to have empowered GDEX with a modern IT infrastructure that allows them to take their business to greater heights.”
+
+GDEX was established in 1997 in Malaysia to provide express delivery services for domestic and international markets. It was the first local express delivery company to have obtained ISO 9001:2000. Today, GDEX operates a network of 425 stations, comprising 99 branches, 64 agents, 11 lodge-in centres and 251 reseller agencies across Malaysia and Singapore. It has a fleet of 1,277  trucks and vans and over 4500 employees across its operations. 

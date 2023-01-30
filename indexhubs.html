@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_46db0a0ee925473e8e8b1b2acdb360cb {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_46db0a0ee925473e8e8b1b2acdb360cb" ></div>
+        
+</body>
+<script>    
+    
+            var map_46db0a0ee925473e8e8b1b2acdb360cb = L.map(
+                "map_46db0a0ee925473e8e8b1b2acdb360cb",
+                {
+                    center: [3.139, 101.6869],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_baef420020964f3cad11f38807494087 = L.tileLayer(
+                "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"http://cartodb.com/attributions\"\u003eCartoDB\u003c/a\u003e, CartoDB \u003ca href =\"http://cartodb.com/attributions\"\u003eattributions\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_46db0a0ee925473e8e8b1b2acdb360cb);
+        
+    
+            var marker_043fee989f0e4d9784b7bb45667437b8 = L.marker(
+                [3.0315101663850488, 101.37308390000271],
+                {}
+            ).addTo(map_46db0a0ee925473e8e8b1b2acdb360cb);
+        
+    
+            marker_043fee989f0e4d9784b7bb45667437b8.bindTooltip(
+                `<div>
+                     City-link Express
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1ca4e3798681472ca7fb35db516ed0b6 = L.marker(
+                [3.1125302065437643, 101.64017390697174],
+                {}
+            ).addTo(map_46db0a0ee925473e8e8b1b2acdb360cb);
+        
+    
+            marker_1ca4e3798681472ca7fb35db516ed0b6.bindTooltip(
+                `<div>
+                     PosLaju
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1c67aff7cae34b17906ff64f48b0e3f1 = L.marker(
+                [3.264981892647301, 101.6802394662265],
+                {}
+            ).addTo(map_46db0a0ee925473e8e8b1b2acdb360cb);
+        
+    
+            marker_1c67aff7cae34b17906ff64f48b0e3f1.bindTooltip(
+                `<div>
+                     GDEX
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c7e9f43076fb4c929136adfc51d63e43 = L.marker(
+                [2.9441275474391855, 101.79003760184513],
+                {}
+            ).addTo(map_46db0a0ee925473e8e8b1b2acdb360cb);
+        
+    
+            marker_c7e9f43076fb4c929136adfc51d63e43.bindTooltip(
+                `<div>
+                     J&T Express
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4d6f223336094e13bc632032d48c3f2d = L.marker(
+                [3.2128202798521093, 101.5747793784555],
+                {}
+            ).addTo(map_46db0a0ee925473e8e8b1b2acdb360cb);
+        
+    
+            marker_4d6f223336094e13bc632032d48c3f2d.bindTooltip(
+                `<div>
+                     DHL
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
